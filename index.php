@@ -135,6 +135,7 @@
                         <li><a href="http://learn.shayhowe.com/html-css">A beginner's guide to HTML/CSS</a></li>
                         <li><a href="https://docs.djangoproject.com/en/1.4/">Django documentation</a></li>
                         <li><a href="http://gitimmersion.com/">Git Immersion</a> (git tutorial)</li>
+                        <li><a href="http://anthonypesce.com/">Anthony Pesce's website</a></li>
                     </ul>
                     <h4>Software Downloads</h4>
                     <ul>
