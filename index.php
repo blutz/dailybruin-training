@@ -56,7 +56,7 @@
                         
                     </ul>
                 </p>
-                <p><a class="btn btn-primary btn-large" href="mailto:online@media.ucla.edu">Questions? Email us</a> <a class="btn btn-large" href="vm.ova">Download VM</a></p>
+                <p><a class="btn btn-primary btn-large" href="mailto:online@media.ucla.edu">Questions? Email us</a> <a class="btn btn-large" href="http://byron-lutz-geog7.dreamhosters.com/VM.ova">Download VM</a></p>
             </div>
 
             <!-- Example row of columns -->
