@@ -60,6 +60,54 @@
             </div>
 
             <!-- Example row of columns -->
+            <?php if(isset($_GET['day']) && $_GET['day'] == "1"):?>
+            <div class="row">
+                <div class="span12">
+                    <h1>Day 1</h1>
+                </div>
+                <div class="span12">
+                    <h4>Getting to know Daily Bruin</h4>
+                    <ol>
+                        <li>Sign up for an account on <a href="https://github.com/">GitHub</a></li>
+                        <li><a href="http://mail.google.com/">Login</a> to your media mail account (default password is <code>bruin111</code> and username is <code>[first initial][last name]@media.ucla.edu</code>)</li>
+                        <li>Set up <a href="http://support.google.com/mail/bin/answer.py?hl=en&answer=10957">email forwarding</a> or something so you will check your media mail regularly. This is the only address we will use to communicate with you.</li>
+                        <li><a href="https://docs.google.com/a/media.ucla.edu/spreadsheet/viewform?formkey=dDBJamhobktzTGZvTTJlUTM2MFhqWUE6MQ#gid=0">Fill out this form</a> <span class="label"><i class="icon-user icon-white"></i></span> with your name and GitHub username</li>
+                        <li><a href="https://docs.google.com/a/media.ucla.edu/spreadsheet/ccc?key=0Apoe5ntvA0zKdHQtaEZ4WWdyMDJCWmJPdVhGSnlfQ0E#gid=2">Sign up for a web production shadowing shift</a> <span class="label"><i class="icon-user icon-white"></i></span></li>
+                    </ol>
+                </div>
+            </div><!-- end div.row -->
+            <hr />
+            <?php endif; ?>
+            <div class="row">
+                <div class="span12">
+                    <h2>About the VM</h2>
+                </div>
+                <div class="span4">
+                    <p>The virtual machine is based off <a href="http://www.ubuntu.com/business/server">Ubuntu server</a> version 12.10. It can be run in <a href="https://www.virtualbox.org/">VirtualBox</a>, a free piece of virtualization software from Oracle.</p>
+                    <p>The VM has MySQL, python, django, apache, git, and more installed. It is configured with a running installation of a django project and the Daily Bruin website theme (in WordPress).</p>
+                    <p><strong>DO NOT USE THIS VM AS A PRODUCTION SERVER</strong></p>
+                </div>
+                <div class="span4">
+                    <h3>Ports</h3>
+                    <ul>
+                        <li><code>8022</code> &mdash; SSH</li>
+                        <li><code>8080</code> &mdash; WordPress (<a href="http://localhost:8080">Go to this</a>)</li>
+                        <li><code>8081</code> &mdash; An empty apache-served folder (<a href="http://localhost:8081">Go to this</a>)</li>
+                        <li><code>8082</code> &mdash; A blank django project (<a href="http://localhost:8082">Go to this</a>)</li>
+                    </ul>
+                </div>
+                <div class="span4">
+                    <h3>Default accounts</h3>
+                    <dl>
+                        <dt>Linux/Django/WordPress/etc.</dt>
+                        <dd><code>dailybruin</code> / <code>bruin111</code></dd>
+                        
+                        <dt>MySQL</dt>
+                        <dd><code>root</code> / <code>root</code></dd>
+                    </dl>
+                </div>
+            </div>
+            <hr />
             <div class="row">
                 <div class="span4">
                     <h2>Contacts</h2>
@@ -99,6 +147,7 @@
                     <h2>Daily Bruin links <span class="label"><i class="icon-user icon-white"></i></span></h2>
                     <h4>General</h4>
                     <ul>
+                        <li><a href="https://docs.google.com/a/media.ucla.edu/document/d/1tTofmvCYX9ZgQay7P7suxD9PL6fGiuFbsKSu1edhjfE/edit">Online department guide</a></li>
                         <li><a href="http://mail.google.com/">Media mail</a> </li>
                         <li><a href="http://bit.ly/dailybruinstaff">Contacts</a></li>
                         
