@@ -51,7 +51,7 @@
                     <ul>
                         <li><strong>Jan. 19 (Ackerman 3508) &mdash; 10:15 a.m. to 4 p.m.</strong></li>
                         <li>Jan. 26 (Ackerman 2412) &mdash; 10:30 a.m. to 4 p.m.</li>
-                        <li>Feb. 2  (Kerckhoff 135) &mdash; 10:30 a.m. to 4 p.m.</li>
+                        <li><strike>Feb. 2  (Kerckhoff 135)</strike> Feb. 9 &mdash; 10:30 a.m. to 4 p.m.</li>
                         <li>Jan. 22 (Kerckhoff Grand Salon) &mdash; 6 p.m. to 8 p.m. (media law briefing)</li>
                         
                     </ul>
