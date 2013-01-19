@@ -137,6 +137,7 @@
                         <li><a href="http://gitimmersion.com/">Git Immersion</a> (git tutorial)</li>
                         <li><a href="http://anthonypesce.com/">Anthony Pesce's website</a></li>
                         <li><a href="http://datadesk.latimes.com/posts/">Data Desk Blog</a></li>
+                        <li><a href="http://infosthetics.com/archives/2011/12/amanda_cox_talks_about_developing_infographics_at_the_new_york_times_graphics.html">Amanda Cox Talks about Developing Infographics at the New York Times</a></li>
                     </ul>
                     <h4>Software Downloads</h4>
                     <ul>
