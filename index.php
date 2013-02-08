@@ -128,6 +128,7 @@
                 <div class="span4">
                     <h2>Resources</h2>
                     <ul>
+                        <li><a href="http://alignedleft.com/tutorials/d3/">D3 tutorial</a> <span class="label label-warning">New!</span></li>
                         <li><a href="http://data.universityofcalifornia.edu/welcome.html">UCOP Data</a></li>
                         <li><a href="https://docs.google.com/presentation/d/1QdiQvVzUf1N7BkDZyo-XFgIQ8xqYWUR0de-BGaCijVQ/edit">LA Times data desk presentation</a> (the <a href="http://www.youtube.com/watch?v=S62J6SssxNE">original presentation</a> in downtown LA)</li>
                         <li><a href="http://www.codecademy.com/tracks/web">Code Academy</a> (learn HTML/CSS)</li>
@@ -138,6 +139,7 @@
                         <li><a href="http://anthonypesce.com/">Anthony Pesce's website</a></li>
                         <li><a href="http://datadesk.latimes.com/posts/">Data Desk Blog</a></li>
                         <li><a href="http://infosthetics.com/archives/2011/12/amanda_cox_talks_about_developing_infographics_at_the_new_york_times_graphics.html">Amanda Cox Talks about Developing Infographics at the New York Times</a></li>
+                        <li><a href="http://twitter.github.com/bootstrap/">Bootstrap</a> (Twitter's web framework)</li>
                     </ul>
                     <h4>Software Downloads</h4>
                     <ul>
